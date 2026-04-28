@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,55:22C55E,100:0F172A&text=Yoondong%20Kim&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Local-first%20tools%20%7C%20SwiftUI%20macOS%20%7C%20Agent%20workflows&descAlignY=60&animation=fadeIn" alt="Yoondong Kim profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=190&color=0:0EA5E9,55:22C55E,100:0F172A&text=Yoondong%20Kim&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=Local-first%20tools%20%7C%20macOS%20SwiftUI%20%7C%20Verifiable%20workflows&descAlignY=64&animation=none" alt="Yoondong Kim profile banner" />
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+practical+software+systems;Local-first+automation+and+study+tools;Native+macOS+apps+with+SwiftUI;Agent+workflow+infrastructure+that+stays+verifiable" alt="Profile typing animation" />
+  <strong>Local-first automation</strong> | <strong>Native macOS UX</strong> | <strong>Study systems</strong> | <strong>Verifiable agent workflows</strong>
 </p>
 
 ## What I Build
 
 I build practical software systems with a focus on local-first workflows, automation, native desktop apps, and reviewer-ready engineering documentation.
 
-My current work is centered on Python tooling, SwiftUI macOS apps, agent workflow infrastructure, and course/project systems that are easy to run, inspect, and verify.
+My current work is centered on Python tooling, SwiftUI macOS apps, agent workflow infrastructure, and study/project systems that are easy to run, inspect, and verify.
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ My current work is centered on Python tooling, SwiftUI macOS apps, agent workflo
 
 ## Stack I Work With
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,swift,cpp,java,ts,git,githubactions,cmake,bash" alt="Python, Swift, C++, Java, TypeScript, Git, GitHub Actions, CMake, Bash" />
 </p>
 
@@ -58,7 +58,7 @@ My current work is centered on Python tooling, SwiftUI macOS apps, agent workflo
 
 ## GitHub Snapshot
 
-<p>
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcellokim&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats for marcellokim" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellokim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages for marcellokim" />
 </p>
