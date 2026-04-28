@@ -44,13 +44,17 @@ My current work is centered on Python tooling, SwiftUI macOS apps, agent workflo
 | [Codex Skills](https://github.com/marcellokim/codex-skills) | Python, Codex skills | Reusable Codex skill library focused on making repositories easier to review, run, and reuse without inflated claims. |
 | [Territory War](https://github.com/marcellokim/oopclone-but-better) | C++20, SFML, CMake | Playable real-time strategy prototype with simulation rules separated from rendering and regression-tested game behavior. |
 
-## Tech Stack
+## Stack I Work With
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,swift,cpp,java,ts,git,githubactions,cmake,bash" alt="Python, Swift, C++, Java, TypeScript, Git, GitHub Actions, CMake, Bash" />
 </p>
 
-Python, Swift, SwiftUI, C++, Java, TypeScript, GitHub Actions, shell scripting, FFmpeg, CMake, Streamlit, and Codex-based agent workflows.
+**Primary project stack:** Python, Swift, SwiftUI, GitHub Actions, and shell scripting.
+
+**Project experience:** C++20, Java, TypeScript, CMake, Streamlit, and FFmpeg.
+
+**Workflow:** AI-assisted development with Codex, backed by local verification, readable setup docs, and reproducible test commands.
 
 ## GitHub Snapshot
 
