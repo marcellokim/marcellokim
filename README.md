@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Local-first automation</strong> | <strong>Native macOS UX</strong> | <strong>Study systems</strong> | <strong>Verifiable agent workflows</strong>
+  <img src="assets/focus-line.svg" alt="Animated profile focus line" />
 </p>
 
 ## What I Build
